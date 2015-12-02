@@ -1,0 +1,12 @@
+#!/usr/bin/expect -f
+
+set timeout -1
+set password "8XCVWXbVUkXX"
+#set dir1 [lindex $argv 1]
+#set dir2 [lindex $argv 2]
+spawn scp -r root@115.47.59.18:cyn/DnsDetect/Result ./
+expect {
+"*yes/no" {send "yes\r"; exp_continue}
+"*password:" {send "$password\r"}
+}
+expect eof

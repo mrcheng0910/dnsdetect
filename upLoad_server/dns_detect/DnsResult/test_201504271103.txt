@@ -1,0 +1,17 @@
+{'ip': '110.96.0.6', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.3', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.2', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.5', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.1', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.7', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.8', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.0', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.9', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.10', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.4', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.5', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.0', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.7', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.4', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.3', 'other': 'NXDOMAIN', 'type': '3'}
+{'ip': '110.96.0.6', 'other': 'NXDOMAIN', 'type': '3'}

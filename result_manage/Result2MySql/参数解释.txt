@@ -1,0 +1,17 @@
+一，result_path = './ResultData/' + sys.argv[1]
+二，ip_isp = sys.argv[2]
+1，china unicom
+2，china telecom
+
+node_region = sys.argv[3]
+1，上海
+2，江苏
+
+node_isp = sys.argv[4]
+1，china unicom
+2，china telecom
+
+detect_times = sys.argv[5]
+
+
+

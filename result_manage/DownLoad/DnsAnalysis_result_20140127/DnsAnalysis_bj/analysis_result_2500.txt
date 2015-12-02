@@ -1,0 +1,10 @@
+package_num:2500	ipNum:671744	Dns_num:195	start_time:2015-01-25 09:21:55.221532	end_time:2015-01-25 09:40:03.411323	long_time:1088	ping:3.75
+package_num:2500	ipNum:671744	Dns_num:2492	start_time:2015-01-25 09:40:33.441998	end_time:2015-01-25 10:00:57.981612	long_time:1224	ping:timeout
+package_num:2500	ipNum:671744	Dns_num:3789	start_time:2015-01-25 10:01:28.013368	end_time:2015-01-25 10:23:08.294446	long_time:1300	ping:timeout
+package_num:2500	ipNum:671744	Dns_num:3807	start_time:2015-01-25 10:23:38.324630	end_time:2015-01-25 10:45:16.974923	long_time:1298	ping:timeout
+package_num:2500	ipNum:671744	Dns_num:3799	start_time:2015-01-25 10:45:47.005019	end_time:2015-01-25 11:07:17.812549	long_time:1290	ping:timeout
+package_num:2500	ipNum:671744	Dns_num:3791	start_time:2015-01-25 11:07:47.843242	end_time:2015-01-25 11:29:27.014824	long_time:1299	ping:timeout
+package_num:2500	ipNum:671744	Dns_num:3794	start_time:2015-01-25 11:29:57.045032	end_time:2015-01-25 11:51:30.605186	long_time:1293	ping:timeout
+package_num:2500	ipNum:671744	Dns_num:3785	start_time:2015-01-25 11:52:00.634711	end_time:2015-01-25 12:13:39.021762	long_time:1298	ping:timeout
+package_num:2500	ipNum:671744	Dns_num:3801	start_time:2015-01-25 12:14:09.051573	end_time:2015-01-25 12:35:42.764696	long_time:1293	ping:timeout
+package_num:2500	ipNum:671744	Dns_num:3802	start_time:2015-01-25 12:36:12.793576	end_time:2015-01-25 12:57:52.865829	long_time:1300	ping:timeout

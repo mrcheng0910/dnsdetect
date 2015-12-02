@@ -1,0 +1,5 @@
+package_num:500	ipNum:671744	Dns_num:768	start_time:2015-01-26 08:18:51.051253	end_time:2015-01-26 09:30:25.330570	long_time:4294	ping:2.95
+package_num:500	ipNum:671744	Dns_num:811	start_time:2015-01-26 09:30:55.361107	end_time:2015-01-26 10:42:54.154013	long_time:4318	ping:3.23
+package_num:500	ipNum:671744	Dns_num:802	start_time:2015-01-26 10:43:24.184532	end_time:2015-01-26 11:55:35.504507	long_time:4331	ping:3.52
+package_num:500	ipNum:671744	Dns_num:764	start_time:2015-01-26 11:56:05.534910	end_time:2015-01-26 13:07:52.609831	long_time:4307	ping:3.76
+package_num:500	ipNum:671744	Dns_num:823	start_time:2015-01-26 13:08:22.640319	end_time:2015-01-26 14:20:23.678637	long_time:4321	ping:3.15
